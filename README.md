@@ -3,16 +3,9 @@
 <h2>💻 Aspiring Web Developer | Open Source Enthusiast</h2>
 
 <p>
-I have a passion for <strong>building web applications</strong> and contributing to <strong>open-source projects</strong>. 
-Currently, I’m enhancing my skills in:
+I have a passion for <strong>Coding</strong> and contributing to <strong>open-source projects</strong>. 
+Currently, I’m Learning moder Web Applictaion Development:
 </p>
-<h2>🚀 What I'm Working On</h2>
-<ul>
-  <li>Learning and experimenting with new technologies</li>
-  <li>Collaborating on open-source projects</li>
-  <li>Building my own projects and inviting others to contribute</li>
-</ul>
-
 <h2>🤝 Let's Connect</h2>
 <p>
 📧 <strong>Email:</strong> <a href="mailto:abdulsami123321@gmail.com">abu.bakar66092@gmail.com</a> <br>
