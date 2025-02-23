@@ -1,19 +1,11 @@
 <h1 align="center">Hi there, I'm Abdul Sami! 👋</h1>
 
-<h2>💻 Aspiring Web Developer | Open Source Enthusiast</h2>
-
-<p>
-I have a passion for <strong>Coding</strong> and contributing to <strong>open-source projects</strong>. 
-Currently, I’m Learning moder Web Applictaion Development:
-</p>
-<h2>🤝 Let's Connect</h2>
-<p>
-📧 <strong>Email:</strong> <a href="mailto:abdulsami123321@gmail.com">abu.bakar66092@gmail.com</a> <br>
-📞 <strong>Phone:</strong> +923130100974
-</p>
-
-<h2>🌟 Fun Fact</h2>
-<p>⚡ I once coded for <strong>24 hours straight!</strong></p>
+👋 Hi, I’m @Abubakarkhan437 "software Developer" <br>
+👀 I’m interested in Building web applications,open Source Projects<br>
+🌱 I’m currently learning Html,css,javascript,Node.js<br>
+💞️ I’m looking to collaborate on to Start My Own Projects and Invite Others To Join<br>
+📫 How to reach me abu.bakar66092@gmail.com, +923130100974<br>
+⚡ Fun fact: I Once coded for 24 hours Straight <br>
 
 <p align="center">🚀 Feel free to connect and collaborate! 🚀</p>
 
