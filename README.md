@@ -6,12 +6,6 @@
 I have a passion for <strong>building web applications</strong> and contributing to <strong>open-source projects</strong>. 
 Currently, I’m enhancing my skills in:
 </p>
-
-<ul>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
-  <li><strong>Backend:</strong> Node.js</li>
-</ul>
-
 <h2>🚀 What I'm Working On</h2>
 <ul>
   <li>Learning and experimenting with new technologies</li>
@@ -21,14 +15,12 @@ Currently, I’m enhancing my skills in:
 
 <h2>🤝 Let's Connect</h2>
 <p>
-📧 <strong>Email:</strong> <a href="mailto:abu.bakar66092@gmail.com">abu.bakar66092@gmail.com</a> <br>
-📞 <strong>Phone:</strong> +92 315 2866092
+📧 <strong>Email:</strong> <a href="mailto:abdulsami123321@gmail.com">abu.bakar66092@gmail.com</a> <br>
+📞 <strong>Phone:</strong> +923130100974
 </p>
 
 <h2>🌟 Fun Fact</h2>
 <p>⚡ I once coded for <strong>24 hours straight!</strong></p>
-
-<p>😄 <strong>Pronouns:</strong> He/Him, She/Her</p>
 
 <p align="center">🚀 Feel free to connect and collaborate! 🚀</p>
 
