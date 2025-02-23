@@ -1,10 +1,37 @@
-👋 Hi, I’m <strong>@Abubakarkhan437</strong> "software Developer" <br>
-👀 I’m interested in Building web applications,open Source Projects<br>
-🌱 I’m currently learning Html,css,javascript,Node.js<br>
-💞️ I’m looking to collaborate on to Start My Own Projects and Invite Others To Join<br>
-📫 How to reach me abu.bakar66092@gmail.com, +923152866092<br>
-😄 Pronouns: He/Him she/Her<br>
-⚡ Fun fact: I Once coded for 24 hours Straight<br>
+<h1 align="center">Hi there, I'm Abdul Sami! 👋</h1>
+
+<h2>💻 Aspiring Web Developer | Open Source Enthusiast</h2>
+
+<p>
+I have a passion for <strong>building web applications</strong> and contributing to <strong>open-source projects</strong>. 
+Currently, I’m enhancing my skills in:
+</p>
+
+<ul>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+  <li><strong>Backend:</strong> Node.js</li>
+</ul>
+
+<h2>🚀 What I'm Working On</h2>
+<ul>
+  <li>Learning and experimenting with new technologies</li>
+  <li>Collaborating on open-source projects</li>
+  <li>Building my own projects and inviting others to contribute</li>
+</ul>
+
+<h2>🤝 Let's Connect</h2>
+<p>
+📧 <strong>Email:</strong> <a href="mailto:abu.bakar66092@gmail.com">abu.bakar66092@gmail.com</a> <br>
+📞 <strong>Phone:</strong> +92 315 2866092
+</p>
+
+<h2>🌟 Fun Fact</h2>
+<p>⚡ I once coded for <strong>24 hours straight!</strong></p>
+
+<p>😄 <strong>Pronouns:</strong> He/Him, She/Her</p>
+
+<p align="center">🚀 Feel free to connect and collaborate! 🚀</p>
+
 
 
 <!--
