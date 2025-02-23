@@ -1,13 +1,10 @@
-## Hi there 👋
-# Hi there 👋
-
-👋 Hi, I’m @Abubakarkhan437 "software Developer"
-👀 I’m interested in Building web applications,open Source Projects
-🌱 I’m currently learning Html,css,javascript,Node.js
-💞️ I’m looking to collaborate on to Start My Own Projects and Invite Others To Join
-📫 How to reach me abu.bakar66092@gmail.com, +923152866092
-😄 Pronouns: He/Him she/Her
-⚡ Fun fact: I Once coded for 24 hours Straight
+👋 Hi, I’m @Abubakarkhan437 "software Developer" <br>
+👀 I’m interested in Building web applications,open Source Projects<br>
+🌱 I’m currently learning Html,css,javascript,Node.js<br>
+💞️ I’m looking to collaborate on to Start My Own Projects and Invite Others To Join<br>
+📫 How to reach me abu.bakar66092@gmail.com, +923152866092<br>
+😄 Pronouns: He/Him she/Her<br>
+⚡ Fun fact: I Once coded for 24 hours Straight<br>
 
 
 <!--
