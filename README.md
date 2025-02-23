@@ -1,4 +1,4 @@
-👋 Hi, I’m <strong>@Abubakarkhan437<strong> "software Developer" <br>
+👋 Hi, I’m <strong>@Abubakarkhan437</strong> "software Developer" <br>
 👀 I’m interested in Building web applications,open Source Projects<br>
 🌱 I’m currently learning Html,css,javascript,Node.js<br>
 💞️ I’m looking to collaborate on to Start My Own Projects and Invite Others To Join<br>
